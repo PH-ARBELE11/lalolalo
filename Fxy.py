@@ -563,7 +563,7 @@ def brute():
 
         except IOError:
             print '\x1b[1;91m[!]File.?!!'
-            print """\n\x1b[1;91m[!] \x1b[1;92mXalata"""
+         
             super()
 
 if __name__ == '__main__':
