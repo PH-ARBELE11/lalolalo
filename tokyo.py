@@ -62,11 +62,7 @@ logo = """
                                                ░                                               
                                                                       
                                             
-Me:TOKYO
 
-TELEGRAM:// i4m_tokyo
-
-TELEGRAM:CHANNEL//@kurdish_cracker0
 ===============$$$$$$$$$$================
 """
 
@@ -550,9 +546,9 @@ def brute():
                     print '\x1b[1;91m[!]Internet'
                     time.sleep(1)
 
-        except IOError:
-            print '\x1b[1;91m[!]File.?!!'
-            print """\n\x1b[1;91m[!] \x1b[1;92mEeror"""
+      except IOError:
+            print '\x1b[1;91m[!] No File...'
+            print '\n\x1b[1;91m[!] \x1b[1;92mThis is not a detailed list of data files'
             super()
 
 if __name__ == '__main__':
