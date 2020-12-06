@@ -561,10 +561,5 @@ def brute():
                     print '\x1b[1;91m[!]Internet'
                     time.sleep(1)
 
-        except IOError:
-            print '\x1b[1;91m[!]File.?!!'
-         
-            super()
-
 if __name__ == '__main__':
     login()
